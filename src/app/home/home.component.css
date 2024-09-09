@@ -1,0 +1,22 @@
+.bg-custom {
+    background: url('https://images.unsplash.com/photo-1544061744-5b92a6b5451c?fit=crop&w=1200&h=800') no-repeat center center/cover;
+}
+.text-custom-primary {
+    color: #1f2937;
+}
+.text-custom-secondary {
+    color: #4b5563;
+}
+.img-custom {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.container {
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 2rem;
+    border-radius: 12px;
+}

@@ -1,0 +1,27 @@
+.bg-custom-light {
+    background-color: #f9fafb;
+}
+.bg-highlight {
+    background-color: #e2e8f0; /* Light blue-gray background */
+}
+.text-custom-dark {
+    color: #1f2937;
+}
+.text-highlight {
+    color: #4f46e5; /* Dark blue for emphasis */
+}
+.text-custom-medium {
+    color: #6b7280;
+}
+.shadow-custom {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.rounded-custom {
+    border-radius: 12px;
+}
+.border-custom {
+    border: 2px solid #e2e8f0; /* Light blue-gray border */
+}
+.border-highlight {
+    border-color: #4f46e5; /* Dark blue border for emphasis */
+}
